@@ -1,20 +1,40 @@
 # 2dPlatformerJump_GMS
-A 2d platformer jump game in GMS (Without art &amp; music, of course)
+A 2d platformer jump game in GMS
 
 # To Do List
 
-× Control
+This list may be extended in future works.
 
-× Wall
+✔ Simple control
+
+✔ Wall
 
 × Spike
 
-× Multi scene
+× Animated player
+
+× Enemy
+
+× Level
+
+× Double jump powerup
+
+× Camera
+
+× Moveable background 
 
 × Menu
 
 × Save and load
 
-× Boss Battle ?
+× Climb
+
+× Water
+
+× Dash
+
+× Boss battle
+
+× Developer Tool
 
 # Here we go!
