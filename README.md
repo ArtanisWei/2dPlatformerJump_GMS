@@ -19,7 +19,7 @@ This list may be extended in future works.
 
 × Double jump powerup
 
-× Camera
+✔ Camera
 
 × Moveable background 
 
