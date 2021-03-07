@@ -15,9 +15,11 @@ This list may be extended in future works.
 
 × Enemy
 
-× Level
+✔ Level
 
 × Double jump powerup
+
+× Tile
 
 ✔ Camera
 
@@ -30,6 +32,10 @@ This list may be extended in future works.
 × Climb
 
 × Water
+
+× Signpost
+
+× Conversation
 
 × Dash
 
