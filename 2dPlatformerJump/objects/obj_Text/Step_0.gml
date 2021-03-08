@@ -12,7 +12,6 @@ w = string_width(text_current);
 if (letters >= length) and (keyboard_check_pressed(vk_anykey)){
 	instance_destroy();
 	with (obj_Camera){
-		follow = oPlayer;
+		follow = obj_player;
 	}
 }
-tm? 

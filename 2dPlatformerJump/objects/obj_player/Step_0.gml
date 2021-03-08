@@ -18,7 +18,8 @@ hSpd = move * spd_walk;
 vSpd += spd_fall;
 
 if ((jumpCnt > 0) and (key_jump)){
-    vSpd -= spd_jump;
+    //vSpd -= spd_jump;
+	vSpd = -spd_jump;
 	jumpCnt -= 1;
 }
 
