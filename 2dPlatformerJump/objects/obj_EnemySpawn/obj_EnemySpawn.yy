@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_doubleJump",
-    "path": "sprites/spr_doubleJump/spr_doubleJump.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,16 +18,17 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"parent":{"name":"obj_doubleJumpPU","path":"objects/obj_doubleJumpPU/obj_doubleJumpPU.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_EnemySpawn","path":"objects/obj_EnemySpawn/obj_EnemySpawn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_EnemySpawn","path":"objects/obj_EnemySpawn/obj_EnemySpawn.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Enemy.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_doubleJumpPU",
+  "name": "obj_EnemySpawn",
   "tags": [],
   "resourceType": "GMObject",
 }

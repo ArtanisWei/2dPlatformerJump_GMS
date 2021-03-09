@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5f5fc4d3-82ea-4eae-aeb7-4b6b9cf09452","path":"sprites/spr_player/spr_player.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5f5fc4d3-82ea-4eae-aeb7-4b6b9cf09452","path":"sprites/spr_player/spr_player.yy",},"LayerId":{"name":"47e25fff-aee0-4d96-a38f-25f10916c172","path":"sprites/spr_player/spr_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"resourceVersion":"1.0","name":"5f5fc4d3-82ea-4eae-aeb7-4b6b9cf09452","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"fef74063-91cb-4420-9da2-2c37186d43cf","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"fef74063-91cb-4420-9da2-2c37186d43cf","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},"LayerId":{"name":"cc53a088-d97a-412e-bab6-bf6c669fcfad","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_EnemyB","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},"resourceVersion":"1.0","name":"fef74063-91cb-4420-9da2-2c37186d43cf","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},
+    "spriteId": {"name":"spr_EnemyB","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"76c5bad1-801b-4d21-8d88-8aa3b563e13c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5f5fc4d3-82ea-4eae-aeb7-4b6b9cf09452","path":"sprites/spr_player/spr_player.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ded3afe2-c9a1-4bac-8035-8e7bf53ba78a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fef74063-91cb-4420-9da2-2c37186d43cf","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 24,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},
+    "parent": {"name":"spr_EnemyB","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_player",
+    "name": "spr_EnemyB",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"47e25fff-aee0-4d96-a38f-25f10916c172","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"cc53a088-d97a-412e-bab6-bf6c669fcfad","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Player",
-    "path": "folders/Sprites/Player.yy",
+    "name": "Enemy",
+    "path": "folders/Sprites/Enemy.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_player",
+  "name": "spr_EnemyB",
   "tags": [],
   "resourceType": "GMSprite",
 }

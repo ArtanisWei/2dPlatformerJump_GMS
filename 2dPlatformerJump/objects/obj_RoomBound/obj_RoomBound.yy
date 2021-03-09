@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "spr_spike",
-    "path": "sprites/spr_spike/spr_spike.yy",
+    "name": "spr_ghostCollision",
+    "path": "sprites/spr_ghostCollision/spr_ghostCollision.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
@@ -23,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -33,7 +31,7 @@
     "path": "folders/Objects/Untouchable.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_spike",
+  "name": "obj_RoomBound",
   "tags": [],
   "resourceType": "GMObject",
 }

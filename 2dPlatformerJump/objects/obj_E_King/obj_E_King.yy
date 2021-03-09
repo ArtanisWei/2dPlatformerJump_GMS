@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_spike",
-    "path": "sprites/spr_spike/spr_spike.yy",
+    "name": "spr_EnemyB",
+    "path": "sprites/spr_EnemyB/spr_EnemyB.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_Untouchable",
-    "path": "objects/obj_Untouchable/obj_Untouchable.yy",
+    "name": "obj_Enemy",
+    "path": "objects/obj_Enemy/obj_Enemy.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,17 +23,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Untouchable",
-    "path": "folders/Objects/Untouchable.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Enemy.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_spike",
+  "name": "obj_E_King",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -9,15 +9,15 @@ This list may be extended in future works.
 
 ✔ Wall
 
-× Spike
+✔ Spike
 
 × Animated player
 
-× Enemy
+✔ Enemy
 
 ✔ Level
 
-× Double jump powerup
+✔ Double jump powerup
 
 × Tile
 
