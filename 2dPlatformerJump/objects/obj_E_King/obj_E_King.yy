@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_EnemyB",
-    "path": "sprites/spr_EnemyB/spr_EnemyB.yy",
+    "name": "spr_E_King",
+    "path": "sprites/spr_E_King/spr_E_King.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,7 +23,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_E_King","path":"objects/obj_E_King/obj_E_King.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

@@ -1,8 +1,10 @@
 {
   "resources": [
     {"id":{"name":"obj_Untouchable","path":"objects/obj_Untouchable/obj_Untouchable.yy",},"order":0,},
+    {"id":{"name":"spr_Player_R","path":"sprites/spr_Player_R/spr_Player_R.yy",},"order":4,},
     {"id":{"name":"spr_doubleJump","path":"sprites/spr_doubleJump/spr_doubleJump.yy",},"order":7,},
     {"id":{"name":"obj_Text","path":"objects/obj_Text/obj_Text.yy",},"order":6,},
+    {"id":{"name":"spr_E_King","path":"sprites/spr_E_King/spr_E_King.yy",},"order":2,},
     {"id":{"name":"fnt_Sign","path":"fonts/fnt_Sign/fnt_Sign.yy",},"order":0,},
     {"id":{"name":"spr_ghostCollision","path":"sprites/spr_ghostCollision/spr_ghostCollision.yy",},"order":9,},
     {"id":{"name":"obj_EnemySpawn","path":"objects/obj_EnemySpawn/obj_EnemySpawn.yy",},"order":0,},
@@ -15,6 +17,7 @@
     {"id":{"name":"spr_sign","path":"sprites/spr_sign/spr_sign.yy",},"order":6,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"obj_playerDie","path":"objects/obj_playerDie/obj_playerDie.yy",},"order":2,},
+    {"id":{"name":"spr_Player_F","path":"sprites/spr_Player_F/spr_Player_F.yy",},"order":2,},
     {"id":{"name":"obj_RoomBound","path":"objects/obj_RoomBound/obj_RoomBound.yy",},"order":2,},
     {"id":{"name":"obj_doubleJumpPU","path":"objects/obj_doubleJumpPU/obj_doubleJumpPU.yy",},"order":8,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
@@ -31,6 +34,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_doubleJumpSpawn","path":"objects/obj_doubleJumpSpawn/obj_doubleJumpSpawn.yy",},"order":9,},
     {"id":{"name":"obj_E_King","path":"objects/obj_E_King/obj_E_King.yy",},"order":5,},
+    {"id":{"name":"spr_Player_N","path":"sprites/spr_Player_N/spr_Player_N.yy",},"order":3,},
     {"id":{"name":"SlideTransition","path":"scripts/SlideTransition/SlideTransition.yy",},"order":0,},
     {"id":{"name":"obj_Enemy","path":"objects/obj_Enemy/obj_Enemy.yy",},"order":2,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},

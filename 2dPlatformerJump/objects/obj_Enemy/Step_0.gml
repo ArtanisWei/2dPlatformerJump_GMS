@@ -17,3 +17,5 @@ if (place_meeting(x, y+vSpd, obj_wall)){
 	vSpd = 0;
 }
 y += vSpd;
+
+image_xscale = hDir;

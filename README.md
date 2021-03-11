@@ -11,15 +11,15 @@ This list may be extended in future works.
 
 ✔ Spike
 
-× Animated player
-
 ✔ Enemy
+
+✔ Animated (player & enemy)
 
 ✔ Level
 
 ✔ Double jump powerup
 
-× Tile
+× Tile (Automated)
 
 ✔ Camera
 
