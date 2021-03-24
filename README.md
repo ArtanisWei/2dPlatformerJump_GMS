@@ -23,7 +23,7 @@ This list may be extended in future works.
 
 ✔ Camera
 
-× Moveable background 
+✔ Moveable background 
 
 × Menu
 
