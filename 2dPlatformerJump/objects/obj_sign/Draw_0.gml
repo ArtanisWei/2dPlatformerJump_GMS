@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Draw a sign
 // You can write your code in this editor
 
 if (closeFlag){

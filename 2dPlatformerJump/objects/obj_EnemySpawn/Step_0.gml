@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Countdown
 // You can write your code in this editor
 
 listLength = array_length(eList);

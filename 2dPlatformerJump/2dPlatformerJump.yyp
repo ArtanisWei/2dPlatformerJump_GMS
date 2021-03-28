@@ -42,6 +42,7 @@
     {"id":{"name":"obj_Enemy","path":"objects/obj_Enemy/obj_Enemy.yy",},"order":2,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"r_Menu","path":"rooms/r_Menu/r_Menu.yy",},"order":2,},
+    {"id":{"name":"spr_Title","path":"sprites/spr_Title/spr_Title.yy",},"order":12,},
     {"id":{"name":"spr_EnemyB","path":"sprites/spr_EnemyB/spr_EnemyB.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],

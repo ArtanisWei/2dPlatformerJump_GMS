@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Control / Collide / Move
 // You can write your code in this editor
 
 #region //Statu Check
@@ -9,19 +9,22 @@ if (place_meeting(x, y+1, obj_wall))
 #endregion
 
 #region //Control
-key_left = keyboard_check(vk_left);
-key_right= keyboard_check(vk_right);
-key_jump = keyboard_check_pressed(vk_space);
 
-var move = key_right - key_left;
-hSpd = move * spd_walk;
-vSpd += spd_fall;
+if (player_control){
+	key_left = keyboard_check(vk_left);
+	key_right= keyboard_check(vk_right);
+	key_jump = keyboard_check_pressed(vk_space);
 
-if ((jumpCnt > 0) and (key_jump)){
-    //vSpd -= spd_jump;
+	var move = key_right - key_left;
+	hSpd = move * spd_walk;
+
+	if ((jumpCnt > 0) and (key_jump)){
+	//vSpd -= spd_jump;
 	vSpd = -spd_jump;
 	jumpCnt -= 1;
+	}
 }
+vSpd += spd_fall;
 
 #endregion
 

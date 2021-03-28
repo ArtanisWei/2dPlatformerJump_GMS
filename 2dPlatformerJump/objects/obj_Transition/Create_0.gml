@@ -15,6 +15,12 @@ w = display_get_gui_width();
 w_half = w / 2;
 h_half = h / 2;
 
+/*
 mode = TRANS_MODE.INTRO;
 percent = 1;
+target = room;
+*/
+
+mode = TRANS_MODE.OFF;
+percent = 0
 target = room;

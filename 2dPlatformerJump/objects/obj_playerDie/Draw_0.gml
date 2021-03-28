@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Play the effect
 // You can write your code in this editor
 
 if (time > room_speed)

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Init
 // You can write your code in this editor
 
 vSpd = 0;
@@ -9,3 +9,4 @@ spd_walk = 4;
 spd_fall = 0.25;
 
 jumpCnt = 0;
+player_control = true;

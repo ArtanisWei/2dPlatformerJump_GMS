@@ -25,9 +25,9 @@ This list may be extended in future works.
 
 ✔ Moveable background 
 
-× Menu
+✔ Menu
 
-× Save and load
+✔ Save and load
 
 × Climb
 
